@@ -80,6 +80,8 @@ This project can demonstrate practical experience in application development, da
 
 ## Author
 
+**Dhananjay Choudhary**
+
 Created as a software development practice project.
 
 "# Reading-List-App" 
